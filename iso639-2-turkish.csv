@@ -1,0 +1,428 @@
+iso_code,english_name,turkish_name
+aar,Afar,Afarca
+abk,Abkhazian,Abhazca
+ace,Achinese,Açece
+ach,Acoli,Acoli Dili
+ada,Adangme,Adangme Dili
+afa,Afro-Asiatic,Afro-Asyatik Diller
+afh,Afrihili,Afrihili Dili
+afr,Afrikaans,Afrikaanca
+aka,Akan,Akan Dili
+akk,Akkadian,Akadca
+alb/sqi,Albanian,Arnavutça
+ale,Aleut,Aleutça
+alg,Algonquian languages,Algonquian Dilleri
+amh,Amharic,Amharca
+ang,Old English,Eski İngilizce
+apa,Apache,Apaçice
+ara,Arabic,Arapça
+arc,Aramaic,Aramice
+arg,Aragonese,Aragonca
+arm/hye,Armenian,Ermenice
+arn,Araucanian,Araucanca
+arp,Arapaho,Arapahoca
+art,Artificial,Yapay Diller
+arw,Arawak,Arawak Dili
+asm,Assamese,Assam Dili
+ath,Athapascan,Atabask Dilleri
+ava,Avaric,Avarca
+ave,Avestan,Avestaca
+awa,Awadhi,Awadhi Dili
+aym,Aymara,Aymaraca
+aze,Azerbaijani,Azerice
+bad,Banda,Banda Dilleri
+bai,Bamileke,Bamileke Dilleri
+bak,Bashkir,Başkurtça
+bal,Baluchi,Beluçça
+bam,Bambara,Bambara Dili
+ban,Balinese,Balice
+baq/eus,Basque,Baskça
+bas,Basa,Basa Dili
+bat,Baltic,Baltık Dilleri
+bej,Beja,Beja Dili
+bel,Belarusian,Belarusça
+bem,Bemba,Bemba Dili
+ben,Bengali,Bengalce
+ber,Berber,Berberi Dilleri
+bho,Bhojpuri,Bhojpuri Dili
+bih,Bihari,Bihari Dilleri
+bik,Bikol,Bikol Dilleri
+bin,Bini,Edo (Bini) Dili
+bis,Bislama,Bislama Dili
+bla,Siksika,Karaayakça
+bnt,Bantu,Bantu Dilleri
+bod/tib,Tibetan,Tibetçe
+bos,Bosnian,Boşnakça
+bra,Braj,Braj Dili
+bre,Breton,Bretonca
+bua,Buriat,Buryatça
+bug,Buginese,Bugice
+bul,Bulgarian,Bulgarca
+bur/mya,Burmese,Birmanca
+cad,Caddo,Kadoca
+cai,Central American Indian,Orta Amerika Yerel Dilleri
+car,Carib,Carib Dili
+cat,Catalan,Katalanca
+cau,Caucasian,Kafkasça
+ceb,Cebuano,Sabuanca
+cel,Celtic,İskoçça
+ces/cze,Czech,Çekçe
+cha,Chamorro,Çamorro Dili
+chb,Chibcha,Çipçaca
+che,Chechen,Çeçence
+chg,Chagatai,Çağatayca
+chi/zho,Chinese,Çince
+chm,Mari,Mari Dili
+chn,Chinook jargon,Chinook jargon
+cho,Choctaw,Çoktav Dili
+chr,Cherokee,Çerokice
+chu,Church Slavic,Kilise Slavcası
+chv,Chuvash,Çuvaşça
+chy,Cheyenne,Şayence
+cop,Coptic,Kıptîce
+cor,Cornish,Kernevekçe
+cos,Corsican,Korsikaca
+cpe,English-based Creoles and Pidgins,İngilizce Tabanlı Kreoller ve Pidginler
+cpf,French-based Creoles and Pidgins,Fransızca Tabanlı Kreoller ve Pidginler
+cpp,Portuguese-based Creoles and Pidgins,Portekizce Tabanlı Kreoller ve Pidginler
+cre,Cree,Krice
+crp,Creoles and Pidgins,Kreoller ve Pidginler
+cus,Cushitic,Cushitic Dilleri
+cym/wel,Welsh,Galce
+cze/ces,Czech,Çekçe
+dak,Dakota,Dakotaca
+dan,Danish,Danimarkaca
+del,Delaware,Delaware Dili
+deu/ger,German,Almanca
+din,Dinka,Dinka Dili
+div,Divehi,Maldivce
+doi,Dogri,Dogri Dili
+dra,Dravidian,Dravid Dilleri
+dua,Duala,Duala Dili
+dum,Middle Dutch,Orta Felemenkçe
+dut/nld,Dutch,Flemenkçe
+dyu,Dyula,Dyula Dili
+dzo,Dzongkha,Dzongkha Dili
+efi,Efik,Efik Dili
+egy,Ancient Egyptian,Eski Mısırca
+eka,Ekajuk,Ekajuk Dili
+ell/gre,Greek,Yunanca
+elx,Elamite,Elamca
+eng,English,İngilizce
+enm,Middle English,Orta İngilizce
+epo,Esperanto,Esperanto Dili
+esk,Eskimo,Eskimo Dili
+esl/spa,Spanish,İspanyolca
+est,Estonian,Estonca
+ewe,Ewe,Ewe Dili
+ewo,Ewondo,Ewondo Dili
+fan,Fang,Fang Dili
+fao,Faroese,Faroece
+fas/per,Persian,Farsça
+fat,Fanti,Fanti Dili
+fij,Fijian,Fijice
+fin,Finnish,Fince
+fiu,Finno-Ugrian,Fin-Ugor Dilleri
+fon,Fon,Fon Dili
+fra/fre,French,Fransızca
+frm,Middle French,Orta Fransızca
+fro,Old French,Eski Fransızca
+fry,Frisian,Frizce
+ful,Fulah,Fula Dili
+gaa,Ga,Ga Dili
+gae/gdh,Gaelic,Galce
+gai/iri,Irish,İrlandaca
+gay,Gayo,Gayo Dili
+gem,Germanic,Cermen dilleri
+geo/kat,Georgian,Gürcüce
+gez,Geez,Geez Dili
+gil,Gilbertese,Kiribatice
+gla,Gaelic,Galce
+gle,Irish,İrlandaca
+glg,Galician,Galiçyaca
+glv,Manx,Manca
+gmh,Middle High German,Orta Yüksek Almanca
+goh,Old High German,Eski yüksek almanca
+gon,Gondi,Gondi Dili
+got,Gothic,Gotik Diller
+grb,Grebo,Grebo Dili
+grc,Ancient Greek,Antik Yunanca
+gre/ell,"Greek, Modern (1453-)","Yunanca, Modern (1453-)"
+grn,Guarani,Guaranice
+guj,Gujarati,Guceratça
+hai,Haida,Haydaca
+hat,Haitian,Haiti dili
+hau,Hausa,Hausaca
+haw,Hawaiian,Hawaii dili
+heb,Hebrew,İbranice
+her,Herero,Hereroca
+hil,Hiligaynon,Hiligaynon Dili
+him,Himachali,Himachali Dilleri
+hin,Hindi,Hintçe
+hmo,Hiri Motu,Hiri Motu
+hrv,Croatian,Hırvatça
+hun,Hungarian,Macarca
+hup,Hupa,Hupaca
+iba,Iban,İban Dili
+ibo,Igbo,İgbo Dili
+ice/isl,Icelandic,İzlandaca
+ido,Ido,İdo Dili
+iii,Sichuan Yi,Sichuan Yi
+ijo,Ijo,İjo Dili
+iku,Inuktitut,Doğu Kanada İnuitçesi
+ile,Interlingue,İç içe geçmiş
+ilo,Iloko,Iloko Dili
+ina,Auxiliary Language Association,Yardımcı Dil Birliği
+inc,Indic,Hint-Aryan dilleri
+ind,Indonesian,Endonezyaca
+ine,Indo-European,Hint-Avrupa Dilleri
+ipk,Inupiaq,İnyupikçe
+ira,Iranian,İran Dilleri
+iro,Iroquoian,İrokua Dilleri
+ita,Italian,İtalyanca
+jav,Javanese,Cava dili
+jav/jaw,Javanese,Cava dili
+jpn,Japanese,Japonca
+jpr,Judeo-Persian,Yahudi Farsçası
+jrb,Judeo-Arabic,Yahudi Arapçası
+kaa,Kara-Kalpak,Karakalpakça
+kab,Kabyle,Kabyle Dili
+kac,Kachin,Kaçin Dili
+kal,Greenlandic,Grönlandca
+kam,Kamba,Kamba Dili
+kan,Kannada,Kannada Dili
+kar,Karen,Karen Dilleri
+kas,Kashmiri,Keşmirce
+kau,Kanuri,Kanurice
+kaw,Kawi,Kavi Dili
+kaz,Kazakh,Kazakça
+kha,Khasi,Khasi Dili
+khi,Khoisan,Khoisan dilleri
+khm,Khmer,Kmerce
+kho,Khotanese,Sakaca
+kik,Gikuyu,Kikuyu Dili
+kin,Kinyarwanda,Ruandaca
+kir,Kirghiz,Kırgızca
+kok,Konkani,Konkani Dili
+kom,Komi,Komice
+kon,Kongo,Kongoca
+kor,Korean,Korece
+kpe,Kpelle,Kpelle Dili
+kro,Kru,Kru Dilleri
+kru,Kurukh,Kurukh Dili
+kua,Kuanyama,Kuanyama Dili
+kum,Kumyk,Kumukça
+kur,Kurdish,Kürtçe
+kus,Kusaie,Kosraca
+kut,Kutenai,Kutenai Dili
+lad,Ladino,Yahudi İspanyolcası
+lah,Lahnda,Lahnda Dili
+lam,Lamba,Lamba Dili
+lao,Lao,Laoca
+lat,Latin,Latince
+lav,Latvian,Letonca
+lez,Lezghian,Lezgice
+lim,Limburgan,Limburgca
+lin,Lingala,Lingala Dili
+lit,Lithuanian,Litvanca
+lol,Mongo,Mongo Dili
+loz,Lozi,Lozi Dili
+ltz,Letzeburgesch,Lüksemburgca
+lub,Luba-Katanga,Luba-Katanga Dili
+lug,Ganda,Luganda
+lui,Luiseno,Luiseno Dili
+lun,Lunda,Lunda Dili
+luo,Luo,Luo Dili
+mac/mak,Macedonian,Makedonca
+mac/mkd,Macedonian,Makedonca
+mad,Madurese,Madurese Dili
+mag,Magahi,Magahi Dili
+mah,Marshallese,Marshall Adaları Dili
+mai,Maithili,Maithili Dili
+mak,Makasar,Makasar Dili
+mal,Malayalam,Malayalamca
+man,Mandingo,Mandinka Dili
+mao/mri,Maori,Maorice
+map,Austronesian,Avustronezya Dilleri
+mar,Marathi,Marathice
+mas,Masai,Masai Dili
+max,Manx,Manca
+may/msa,Malay,Malayca
+men,Mende,Mende Dili
+mga,Middle Irish,Orta İrlandaca
+mic,Micmac,Micmac Dili
+min,Minangkabau,Minangkabau Dili
+mis,Miscellaneous,Çeşitli
+mkh,Mon-Kmer,Mon-Kmer Dilleri
+mlg,Malagasy,Malgaşça
+mlt,Maltese,Maltaca
+mni,Manipuri,Manipuri Dili
+mno,Manobo,Manobo Dilleri
+moh,Mohawk,Mohavk Dili
+mol,Moldavian,Moldovaca
+mon,Mongolian,Moğolca
+mos,Mossi,Mossi Dili
+mul,Multiple languages,Birden fazla dil
+mun,Munda,Munda Dilleri
+mus,Creek,Krikçe
+mwr,Marwari,Marwari Dili
+myn,Mayan,Maya Dili
+nah,Aztec,Aztek Dili
+nai,North American Indian,Kuzey Amerika Yerli Dilleri
+nau,Nauru,Nauruca
+nav,Navajo,Navahoca
+nbl,"Ndebele, South","Ndebele, Güney"
+nde,"Ndebele, North","Ndebele, Kuzey"
+ndo,Ndonga,Ndonga Lehçesi
+nep,Nepali,Nepalce
+new,Newari,Newar Dili
+nic,Niger-Kordofanian,Nijer-Kordofan Dilleri
+niu,Niuean,Niuece
+nno,Norwegian Nynorsk,Norveççe (Nynorsk)
+nob,"Bokmål, Norwegian",Norveççe (Bokmål)
+non,Norse,Norsça
+nor,Norwegian,Norveççe
+nso,Sotho,Sotho Dili
+nub,Nubian,Nubian Dilleri
+nya,Chewa,Çevaca
+nym,Nyamwezi,Nyamvezi Dili
+nyn,Nyankole,Nyankole Dili
+nyo,Nyoro,Nyoro Dili
+nzi,Nzima,Nzima Dili
+oci,Occitan (post 1500),Oksitanca (1500 sonrası)
+oji,Ojibwa,Ojibwe Dili
+ori,Oriya,Oriya Dili
+orm,Oromo,Oromca
+osa,Osage,Osage Dili
+oss,Ossetian,Osetçe
+ota,Ottoman,Osmanlıca
+oto,Otomian,Otomi Dili
+paa,Papuan-Australian,Papua-Avustralya Dilleri
+pag,Pangasinan,Pangasinan Dili
+pal,Pahlavi,Orta Farsça
+pam,Pampanga,Pampanga Dili
+pan,Panjabi,Pencapça
+pap,Papiamento,Papiamento Dili
+pau,Palauan,Palau Dili
+peo,"Persian, Old (ca 600 - 400 B.C.)",Eski Farsça (M.Ö yaklaşık 600 - 400)
+per/fas,Persian,Farsça
+phn,Phoenician,Fenikece
+pli,Pali,Pali Dili
+pol,Polish,Lehçe
+pon,Ponape,Ponape Dili
+por,Portuguese,Portekizce
+pra,Prakrit,Prakrit Dili
+pro,Provencal,Provensal Lehçesi
+pus,Pushto,Peştuca
+que,Quechua,Keçuva Dili
+raj,Rajasthani,Rajasthani Dili
+rar,Rarotongan,Rarotongan Dili
+roa,Romance,Romence
+roh,Raeto-Romance,Romanşça
+rom,Romany,Çingenece
+ron/rum,Romanian,Rumence
+rum/ron,Romanian,Rumence
+run,Rundi,Rundice
+rus,Russian,Rusça
+sad,Sandawe,Sandave Dili
+sag,Sango,Sango Dili
+sah,Yakut,Yakutça
+sai,South American Indian,Güney Amerika Yerli Dilleri
+sal,Salishan,Saliş Dilleri
+sam,Samaritan,Samarit Aramcası
+san,Sanskrit,Sanskritçe
+srp,Serbian,Sırpça
+sco,Scots,İskoçça
+scr,Serbo-Croatian,Sırp-Hırvatça
+hrv,Croatian,Hırvatça
+sel,Selkup,Selkupça
+sem,Semitic,Semitik Diller
+sga,old Irish,Eski İrlandaca
+shn,Shan,Shan Dili
+sid,Sidama,Sidama Dili
+sin,Sinhala,Seylanca
+sio,Siouan,Siyu Dilleri
+sit,Sino-Tibetan,Çin-Tibet dilleri
+sla,Slavic,Slavca
+slk/slo,Slovak,Slovakça
+slo/slk,Slovak,Slovakça
+slv,Slovenian,Slovence
+sme,Northern Sami,Kuzey Sami Dilleri
+smi,Sami,Sami Dilleri
+smo,Samoan,Samoaca
+sna,Shona,Şona Dili
+snd,Sindhi,Sindhî Dili
+sog,Sogdian,Soğdca
+som,Somali,Somalice
+son,Songhai,Songhay Dilleri
+sot,"Sotho, Southern",Güney Sotho Dili
+spa,Spanish,İspanyolca
+srd,Sardinian,Sardunyaca
+srp,Serbian,Sırpça
+srr,Serer,Serer Dili
+ssa,Nilo-Saharan,Nil-Sahra Dilleri
+ssw,Swati,Swati Dili
+suk,Sukuma,Sukuma Dili
+sun,Sundanese,Sundaca
+sus,Susu,Susu Dili
+sux,Sumerian,Sümerce
+swe,Swedish,İsveççe
+swa,Swahili,Svahili Dili
+syr,Syriac,Süryanice
+tah,Tahitian,Tahitice
+tam,Tamil,Tamilce
+tat,Tatar,Tatarca
+tel,Telugu,Teluguca
+tem,Timne,Timne Dili
+ter,Tereno,Tereno Dili
+tgk,Tajik,Tacikçe
+tgl,Tagalog,Tagalogca
+tha,Thai,Tayca
+tib/bod,Tibetan,Tibetçe
+tig,Tigre,Tigre Dili
+tir,Tigrinya,Tigrinya Dili
+tiv,Tivi,Tivi Dili
+tli,Tlingit,Tlingitçe
+tmh,Tamashek,Tamaşekçe
+tog,Tonga(Nyasa),Tongaca (Nyasa)
+ton,Tonga (Tonga Islands),Tongaca (Tonga Adaları)
+tru,Truk,Truk Dili
+tsi,Tsimshian,Tsimshian
+tsn,Tswana,Tsvana Dili
+tso,Tsonga,Tsongaca
+tuk,Turkmen,Türkmence
+tum,Tumbuka,Tumbuka Dili
+tur,Turkish,Türkçe
+tut,Altaic,Altay Dilleri
+twi,Twi,Tvi Lehçesi
+tyv,Tuvinian,Tuvaca
+uga,Ugaritic,Ugaritçe
+uig,Uighur,Uygurca
+ukr,Ukrainian,Ukraynaca
+umb,Umbundu,Umbundu Dili
+und,Undetermined,Belirsiz
+urd,Urdu,Urduca
+uzb,Uzbek,Özbekçe
+vai,Vai,Vai Dili
+ven,Venda,Venda Dili
+vie,Vietnamese,Vietnamca
+vol,Volapük,Volapük
+vot,Votic,Votça
+wak,Wakashan,Vakaş Dilleri
+wal,Walamo,Walamo Dili
+war,Waray,Varayca
+was,Washo,Washo Dili
+wel/cym,Welsh,Galce
+wen,Sorbian,Sorbca
+wln,Walloon,Valonca
+wol,Wolof,Wolof Dili
+xho,Xhosa,Xhosa
+yao,Yao,Yao Dili
+yap,Yap,Yap Dili
+yid,Yiddish,Yidiş
+yor,Yoruba,Yoruba Dili
+zap,Zapotec,Zapotek Dilleri
+zen,Zenaga,Zenaga Dili
+zha,Zhuang,Zhuangca
+zul,Zulu,Zuluca
+zun,Zuni,Zunice
